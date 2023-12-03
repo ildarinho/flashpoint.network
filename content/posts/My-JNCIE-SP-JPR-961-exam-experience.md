@@ -12,3 +12,6 @@ If everything goes well in the lab, that's great. Otherwise, think in advance ab
  ```vim
  sudo containerlab deploy -t test-topology.yml
  ```
+
+/* PostCSS code */
+ sudo containerlab deploy -t test-topology.yml
