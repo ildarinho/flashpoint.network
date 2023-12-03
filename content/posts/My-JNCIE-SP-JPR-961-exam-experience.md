@@ -9,6 +9,6 @@ Read the introduction part of the JPR-961 exam carefully, as it may contain key 
 If everything goes well in the lab, that's great. Otherwise, think in advance about what things to focus on to make your next attempt successful.
  Of course JNCIE-SP lab was brutal, exhausting and painful. And - it was well worth it. 
  
- ```
+ ```vim
  sudo containerlab deploy -t test-topology.yml
  ```
